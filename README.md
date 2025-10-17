@@ -10,11 +10,10 @@ In essence, the problem is a lack of a trusted, transparent digital bridge conne
 2. The Solution: CameroonGuide Lite – A Simple, Transparent Digital Directory
 CameroonGuide Lite solves this by creating a Minimum Viable Product (MVP) focused entirely on establishing this trusted digital bridge, minimizing complex features to accelerate launch and impact.
 2.1 The Solution Pillars
-| Problem Addressed | Solution Feature | Mechanism of Action |
-|---|---|---|
-| Information Asymmetry | Verified Guide Directory | Provides simple profiles with a mandatory verification badge (from a local tourism body), specialty, and simple ratings, ensuring trust before contact. |
-| Economic Leakage | Secured Deposit Feature | Facilitates only a small, non-refundable deposit via local Mobile Money. The large balance is paid directly to the guide upon meeting, retaining 90\%+ of the revenue locally. |
-| Complexity/Slow Launch | Microservice-Lite Architecture | Breaks the system into only three core services, enabling faster, independent development and reducing initial infrastructure complexity and cost. |
+| Problem Addressed    |    Solution Feature | 
+ Information asymmetry       Verified guide directory
+ Economic leakage             Secured deposit feature
+  Slow launch                 Microservice-lite architerture
 2.2 Key Feature Implementation (The How)
  * Verified Profiles: The platform's initial collaboration is with a local tourism body (e.g., the Ministry of Tourism and Leisure or AGTC) to ensure every listed guide has confirmed credentials, turning the platform into a source of undeniable legitimacy.
  * Direct Inquiry & Booking: Tourists are provided with the guide's verified contact information (WhatsApp/SMS) after the deposit is secured. This protects the guide's time and information while ensuring a direct, unmediated communication channel for final arrangements.
